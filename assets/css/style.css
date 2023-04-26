@@ -551,6 +551,7 @@ section {
     transition: 0.3s;
     position: relative;
     overflow: hidden;
+    border-radius: 25px;
     z-index: 1;
 }
 
@@ -618,6 +619,7 @@ section {
 
     .portfolio-details .portfolio-details-slider img {
         width: 100%;
+        border-radius: 20px;
     }
 
     .portfolio-details .portfolio-details-slider .swiper-pagination {
